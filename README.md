@@ -1,4 +1,4 @@
-# Design "Life Kids"
+# Личный проект "Фрукты"
 
-* Студент [Олег Занькин][http://t.me/OlegZankin]
-* Наставник [Иван Смирнов][https://t.me/ducker_t]
+* Студент [Занькин Олег][http://t.me/ducker_t]
+* Наставник [Смирнов Иван][https://t.me/SmirnovIvan]
